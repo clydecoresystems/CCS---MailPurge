@@ -1,0 +1,62 @@
+Privacy Policy
+
+Effective Date: 11/03/2026
+
+This Privacy Policy describes how the Email Cleaner application ("the Application") collects, uses, and protects user information.
+
+1. Information We Access
+
+When a user connects their Google account to the Application, the Application may access limited Gmail data using the Gmail API.
+
+This may include:
+• Email metadata (sender, subject, date)
+• Email headers
+• Labels and folders
+• Message identifiers
+
+The Application does NOT collect or store the full contents of emails unless required to perform a user-requested action.
+
+2. How Information Is Used
+
+Information accessed through the Gmail API is used solely to provide the following features:
+
+• Inbox analysis
+• Email grouping by sender
+• Bulk email cleanup
+• Unsubscribe management
+• Attachment identification
+• Automation rules created by the user
+
+3. Local Processing
+
+The Application processes email data locally on the user's device whenever possible. The Application does not permanently store Gmail data on external servers.
+
+4. Data Sharing
+
+The Application does not sell, rent, or share Gmail user data with third parties.
+
+User data accessed through Google APIs is used strictly for providing Application functionality.
+
+5. Data Security
+
+The Application uses secure authentication through Google OAuth and stores authentication tokens securely.
+
+6. User Control
+
+Users may disconnect their Google account from the Application at any time.
+
+Users may revoke access through their Google Account security settings.
+
+7. Compliance with Google API Services User Data Policy
+
+The Application's use of information received from Google APIs adheres to the Google API Services User Data Policy.
+
+8. Changes to This Policy
+
+This Privacy Policy may be updated periodically.
+
+9. Contact
+
+For questions regarding this Privacy Policy, please contact:
+
+Clydecore.support@gmail.com

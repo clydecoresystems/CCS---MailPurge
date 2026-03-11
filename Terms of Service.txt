@@ -1,0 +1,45 @@
+Terms of Service
+
+Effective Date: 11/03/2026
+
+By using the Email Cleaner application ("the Application"), you agree to the following terms.
+
+1. Use of the Application
+
+The Application provides tools for analysing and managing email inboxes.
+
+Users are responsible for ensuring they comply with their email provider's policies.
+
+2. Account Access
+
+The Application uses Google OAuth authentication to access Gmail accounts with user consent.
+
+Users may revoke access at any time.
+
+3. User Responsibility
+
+Users are responsible for any actions taken within their email accounts using the Application.
+
+4. No Warranty
+
+The Application is provided "as is" without warranties of any kind.
+
+The developer is not responsible for data loss, email deletion, or service interruptions.
+
+5. Limitation of Liability
+
+In no event shall the developer be liable for any damages resulting from the use of the Application.
+
+6. Modifications
+
+These Terms may be updated periodically.
+
+7. Termination
+
+The developer reserves the right to terminate access to the Application if it is used for abuse or violation of applicable laws.
+
+8. Contact
+
+For support inquiries, contact:
+
+Clydecore.support@gmail.com
